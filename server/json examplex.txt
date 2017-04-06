@@ -1,0 +1,15 @@
+register json:
+{
+	"first_name": "Rahul",
+	"last_name": "Sharma",
+	"email_id": "rahul@abc.123",
+	"password": "rahul1234"
+}
+
+
+login json:
+{
+	"email_id": "rahul@abc.123",
+	"password": "rahul123",
+	"session_id": "587345d5c3f063105c0ffa72"
+}
